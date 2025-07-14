@@ -145,4 +145,5 @@ A imagem acima mostra a organização final do modelo dimensional criado, otimiz
 
 **Raphael Travassos**  
 Analista de Dados | Power BI | Python | SQL | Modelagem Dimensional  
-[LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/raphael-travassos-dos-santos/))  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/raphael-travassos-dos-santos/) 
